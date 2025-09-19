@@ -2,7 +2,7 @@
 
 PropWise is a **production-ready AI-powered property intelligence platform** designed to transform the way property buyers, investors, and advisors analyze the UK real estate market.  
 The system combines **price forecasting**, **tax advisory**, and **continuous learning via RLHF** (Reinforcement Learning with Human Feedback) to deliver accurate, personalized property insights.
-
+       
 ---
 
 ## 🚀 Final Project Highlights
